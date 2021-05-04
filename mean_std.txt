@@ -1,0 +1,24 @@
+mean of larger disk at iteration 1 for mean5x5 = 196.061667
+std of larger disk at iteration 1 for mean5x5 = 16.980550
+mean of larger disk at iteration 5 for mean5x5 = 194.529374
+std of larger disk at iteration 5 for mean5x5 = 18.636121
+
+mean of larger disk at iteration 1 for median5x5 = 196.330796
+std of larger disk at iteration 1 for median5x5 = 17.908554
+mean of larger disk at iteration 5 for median5x5 = 195.296790
+std of larger disk at iteration 5 for median5x5 = 20.424694
+
+mean of larger disk at iteration 1 for alphaTrimmedMean5x5 = 196.339931
+std of larger disk at iteration 1 for alphaTrimmedMean5x5 = 17.534159
+mean of larger disk at iteration 5 for alphaTrimmedMean5x5 = 195.170791
+std of larger disk at iteration 5 for alphaTrimmedMean5x5 = 19.910708
+
+mean of larger disk at iteration 1 for sigma5x5 = 187.509453
+std of larger disk at iteration 1 for sigma5x5 = 21.754606
+mean of larger disk at iteration 5 for sigma5x5 = 184.032991
+std of larger disk at iteration 5 for sigma5x5 = 23.956818
+
+mean of larger disk at iteration 1 for symmNNMean = 196.464154
+std of larger disk at iteration 1 for symmNNMean = 21.977833
+mean of larger disk at iteration 5 for symmNNMean = 195.663621
+std of larger disk at iteration 5 for symmNNMean = 22.484127
